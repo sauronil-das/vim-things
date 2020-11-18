@@ -1,0 +1,23 @@
+filetype plugin on
+filetype indent on
+syntax enable
+
+set expandtab "Converts a TAB character to Spaces
+
+set smarttab "A backspace will delete shiftwidth worth of space
+
+set shiftwidth = 4 "One TAB is 4 spaces Long
+
+set tabstop = 4 "The width of a hard tabstop measured in spaces -- effectively the (maximum) 
+		width of an actual tab character.
+
+set softtabstop = 0 "Setting this to a non-zero value other than tabstop will 
+		make the tab key (in insert mode) insert a combination of spaces (and possibly tabs) to simulate tab stops at this width.
+
+set ai "Auto Indent
+
+set si "Smart Indent
+
+set number
+
+colorscheme badwolf

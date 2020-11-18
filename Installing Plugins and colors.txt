@@ -1,0 +1,15 @@
+Colorscheme
+
+Step 1 : mkdir .vim @ /home
+
+Step 2 : cd .vim and mkdir colors
+
+Put <color_name.vim> into colors 
+
+Plugins 
+
+Step 1 : Same as colorscheme
+
+Step 2 : mkdir plugin inside .vim directory
+
+Step 3 : Put The <plugin_directory> inside plugin
