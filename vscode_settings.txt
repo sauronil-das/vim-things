@@ -1,0 +1,14 @@
+VSCode Settings || Plugins for HTML & CSS
+-----------------------------------------
+
+1. Material Theme
+2. Live Server
+3. Bracket Colorizer
+4. Prettier Now
+5. CSS Peek
+6. Color Highlighter
+
+VSCode Settings for Coding C
+----------------------------
+
+1. vim
