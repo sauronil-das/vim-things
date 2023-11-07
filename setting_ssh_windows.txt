@@ -1,0 +1,11 @@
+need admin previledges to generate and create the ssh key
+
+$ ssh-keygen -t rsa -b 4096 -C "<your_email@example.com>"
+
+$ eval "$(ssh-agent -s)"
+
+$ ssh-add ~/.ssh/id_rsa
+
+$ git config --global user.email "<your_email@example.com>"
+$ git config --global user.name "<your_name>"
+$ git config --global core.sshCommand "ssh -i ~/.ssh/id_rsa"
